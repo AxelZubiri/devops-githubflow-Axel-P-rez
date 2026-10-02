@@ -108,3 +108,16 @@ footer {
     text-align: center;
     padding: 20px;
 }
+
+#modoOscuro {
+    margin-top: 15px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.oscuro {
+    background-color: #222;
+    color: white;
+}
