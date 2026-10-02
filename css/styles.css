@@ -103,8 +103,12 @@ section h2 {
 /* PIE DE PÁGINA */
 
 footer {
-    background-color: #333;
+    background-color: #313030;
     color: white;
     text-align: center;
     padding: 20px;
+}
+a
+{
+    color: blue;
 }
